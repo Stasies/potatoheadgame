@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/potatoheadgame/static/css/main.4e590678.css",
-    "main.js": "/potatoheadgame/static/js/main.759bd7bf.js",
+    "main.css": "/potatoheadgame/static/css/main.1d455b7a.css",
+    "main.js": "/potatoheadgame/static/js/main.a59de0e2.js",
     "static/media/eyes10.png": "/potatoheadgame/static/media/eyes10.4bc99be5c33ac68dbee8.png",
     "static/media/mouth1.png": "/potatoheadgame/static/media/mouth1.0d7f1f154358e4e8a1dd.png",
     "static/media/eyes4.png": "/potatoheadgame/static/media/eyes4.e5ab9d0eafbae8cbb602.png",
@@ -34,11 +34,11 @@
     "static/media/mouth5.png": "/potatoheadgame/static/media/mouth5.6e1084a740f479f84e94.png",
     "static/media/eyes11.png": "/potatoheadgame/static/media/eyes11.8b73d52f7749da589563.png",
     "index.html": "/potatoheadgame/index.html",
-    "main.4e590678.css.map": "/potatoheadgame/static/css/main.4e590678.css.map",
-    "main.759bd7bf.js.map": "/potatoheadgame/static/js/main.759bd7bf.js.map"
+    "main.1d455b7a.css.map": "/potatoheadgame/static/css/main.1d455b7a.css.map",
+    "main.a59de0e2.js.map": "/potatoheadgame/static/js/main.a59de0e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e590678.css",
-    "static/js/main.759bd7bf.js"
+    "static/css/main.1d455b7a.css",
+    "static/js/main.a59de0e2.js"
   ]
 }
